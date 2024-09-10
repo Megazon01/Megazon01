@@ -11,7 +11,7 @@ I'm a data enthusiast based in Barcelona, specializing in Python, SQL, and data 
 - Building a Python program that scrapes data from a website containing KINO lottery draws, analyzes the results to assess the randomness of the draws, and evaluates different betting strategies to determine the most profitable approaches.
 
 ### 💻 Featured Projects
-- [KINO Data Analysis](https://github.com/yourrepo): A Python program that scrapes and analyzes KINO lottery draw data to assess randomness and evaluate betting strategies.
+- [KINO Data Analysis](https://github.com/Megazon01/KINO-Data_Analysis): A Python program that scrapes and analyzes KINO lottery draw data to assess randomness and evaluate betting strategies.
 - [KINO simulator](https://github.com/yourrepo): A python program that runs simulations of KINO games and keeps track of profits.
 - [News Scraper & Emailer](https://github.com/yourrepo): A Python program that utilizes a news API to scrape the latest headlines, structures them into a digestible format, and emails the summary directly to me.
 - [Weather App](https://github.com/yourrepo): Real-time weather data using APIs.
