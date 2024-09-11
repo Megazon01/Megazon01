@@ -12,10 +12,9 @@ I'm a data enthusiast based in Barcelona, specializing in Python, SQL, and data 
 
 ### 💻 Featured Projects
 - [KINO Data Analysis](https://github.com/Megazon01/KINO-Data_Analysis): A Python program that scrapes and analyzes KINO lottery draw data to assess randomness and evaluate betting strategies.
-- [KINO simulator](https://github.com/yourrepo): A python program that runs simulations of KINO games and keeps track of profits.
-- [News Scraper & Emailer](https://github.com/yourrepo): A Python program that utilizes a news API to scrape the latest headlines, structures them into a digestible format, and emails the summary directly to me.
-- [Weather App](https://github.com/yourrepo): Real-time weather data using APIs.
-- [Desktop to-do App](https://github.com/yourrepo): A desktop app to track your to-dos.
+- [KINO simulator](https://github.com/Megazon01/KINO-simulator): A python program that runs simulations of KINO games and keeps track of profits.
+- [Weather App](https://github.com/Megazon01/Weather-API): A python program that scrapes weather data and emails it to the user.
+- [Desktop to-do App](https://github.com/Megazon01/To-do): A stylish desktop app to track your to-dos.
 
 
 
