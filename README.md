@@ -1,6 +1,8 @@
 ## 👋 Hi there, I'm Petros!
 I'm a data enthusiast based in Barcelona, specializing in Python, SQL, and data handling, with a keen interest in expanding my expertise into machine learning. I'm passionate about using data to solve complex problems and am currently diving deeper into the world of AI and predictive analytics.
 
+Check out my profile on [Tableau](https://public.tableau.com/app/profile/petros.zonias/vizzes)!
+
 ### 🚀 Skills & Technologies
 - **Languages:** Python, SQL
 - **Databases:** PostgreSQL, MySQL
