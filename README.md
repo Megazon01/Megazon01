@@ -13,6 +13,7 @@ Check out my profile on [Tableau](https://public.tableau.com/app/profile/petros.
 - Building a Python program that scrapes data from a website containing KINO lottery draws, analyzes the results to assess the randomness of the draws, and evaluates different betting strategies to determine the most profitable approaches.
 
 ### 💻 Featured Projects
+- [California Housing Location Classification](https://github.com/Megazon01/Supervised-Classification-Project): Applied Supervised Machine Learning to predict house locations based on price and income. 
 - [KINO Data Analysis](https://github.com/Megazon01/KINO-Data_Analysis): A Python program that scrapes and analyzes KINO lottery draw data to assess randomness and evaluate betting strategies.
 - [Market Sentiment Analysis](https://github.com/Megazon01/Market-Sentiment-Analysis): A Python program that collects and analyzes Reddit posts to investigate public sentiment about the financial markets.
 - [KINO simulator](https://github.com/Megazon01/KINO-simulator): A python program that runs simulations of KINO games and keeps track of profits.
